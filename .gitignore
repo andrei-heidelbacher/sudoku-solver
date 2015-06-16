@@ -1,0 +1,35 @@
+# Scala specific
+target
+target/
+*.class
+*.log
+
+# SBT specific
+.cache
+.cache/
+.history
+.history/
+.lib
+.lib/
+dist
+dist/
+dist/*
+target
+target/
+lib_managed
+lib_managed/
+src_managed
+src_managed/
+project
+project/
+project/boot/
+project/plugins/project
+
+# IDEA specific
+*.iml
+*.ipr
+*.iws
+.idea
+.idea/
+out
+out/
